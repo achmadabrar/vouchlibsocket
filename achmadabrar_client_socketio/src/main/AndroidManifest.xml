@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="vouch.sg.achmadabrar_client_socketio">
+
+    <application>
+        <activity android:name=".ChatActivity">
+        </activity>
+    </application>
+
+</manifest>
